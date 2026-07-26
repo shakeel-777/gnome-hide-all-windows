@@ -4,6 +4,6 @@
   "description": "Press a shortcut to instantly hide every open window from your screen and the Activities overview. Press it again to bring everything back exactly as it was, minimized state preserved.",
   "shell-version": ["45", "46", "47", "48", "49", "50"],
   "url": "https://github.com/shakeel-777/gnome-hide-all-windows",
-  "version": 2,
+  "version": 1,
   "settings-schema": "org.gnome.shell.extensions.hide-all-windows"
 }
