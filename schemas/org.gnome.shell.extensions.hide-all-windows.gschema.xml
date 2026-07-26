@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.hide-all-windows"
+          path="/org/gnome/shell/extensions/hide-all-windows/">
+    <key name="toggle-hide-windows" type="as">
+      <default><![CDATA[['<Super><Shift>h']]]></default>
+      <summary>Toggle hide all windows</summary>
+      <description>Keybinding that hides every open window, or restores them if already hidden.</description>
+    </key>
+    <key name="current-workspace-only" type="b">
+      <default>false</default>
+      <summary>Only affect the current workspace</summary>
+      <description>When true, only windows on the active workspace are hidden. When false, every window on every workspace is hidden.</description>
+    </key>
+  </schema>
+</schemalist>
