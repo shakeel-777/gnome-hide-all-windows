@@ -1,5 +1,5 @@
 {
-  "uuid": "hide-all-windows@shakeel.dev",
+  "uuid": "hide-all-windows@shakeel-777",
   "name": "Hide All Windows",
   "description": "Press a shortcut to instantly hide every open window from your screen and the Activities overview. Press it again to bring everything back exactly as it was, minimized state preserved.",
   "shell-version": ["45", "46", "47", "48", "49", "50"],
